@@ -5,7 +5,8 @@
   "author": "amirlu",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\" --temp .temp",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "docs:deploy": "bash deploy-gh.sh"
   },
   "devDependencies": {
     "vuepress": "1.8.2",
