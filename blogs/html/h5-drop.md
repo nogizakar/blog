@@ -366,4 +366,4 @@ droptarget.addEventListener('click', event => {
 
 -   **`FileReader`对象**: 通过`readAsDataURL(file)`方法获取文件二进制流，通过`onload`事件，获取文件数据`e.result`，`onerror`事件监听文件读取的时候发生的错误，`onprogress`事件监听文件读取的进度。
 
-> 博客主要记录一些学习的文章，如有不足，望大家指出，谢谢。
+> 博客主要记录一些学习的文章，如有不足，望大家指出，谢
