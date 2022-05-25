@@ -29,10 +29,11 @@ module.exports = {
       '@vuepress/register-components',
     ],
     [
-      //先安装在配置， npm install @vuepress-reco/vuepress-plugin-kan-ban-niang --save
+      //先安装在配置， npm install   --save
+      //'haru1', 'blackCat', 'whiteCat', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
-        theme: ['haru1', 'blackCat', 'whiteCat', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'],
+        theme: ['miku'],
         clean: true, // 是否显示操作按钮
         messages: {
           welcome: '我是Amir Lu，欢迎你的关注 ',
@@ -65,7 +66,7 @@ module.exports = {
         showIcon: "/favicon.ico",
         showText: "(/≧▽≦/)好起来了！",
         hideIcon: "/failure.ico",
-        hideText: "(●—●)喔哟，坏起来了！",
+        hideText: "(●—●)坏起来了！",
         recoverTime: 2000
       }
     ],
@@ -128,10 +129,10 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "Kakki",
+        "title": "touch fish",
         "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "email": "ok5215280@gmail.com",
+        "link": "https://momoyu.cc/"
       },
       {
         "title": "vuepress-theme-reco",
