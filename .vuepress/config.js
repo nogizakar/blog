@@ -102,7 +102,7 @@ module.exports = {
           },
           {
             "text": "掘金",
-            "link": "https://juejin.cn/user/3281394147006381",
+            "link": "https://juejin.cn/user/123614960552727",
             "icon": "reco-juejin"
           }
         ]
