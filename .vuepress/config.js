@@ -33,7 +33,7 @@ module.exports = {
       //'haru1', 'blackCat', 'whiteCat', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
-        theme: ['miku'],
+        theme: ['blackCat'],
         clean: true, // 是否显示操作按钮
         messages: {
           welcome: '我是Amir Lu，欢迎你的关注 ',
